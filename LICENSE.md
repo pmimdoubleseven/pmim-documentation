@@ -21,4 +21,5 @@ OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
-Ralph Sto. Domingo: The adoption of the Unlicense is temporary and is subject to future changes depending on our client's discretion.
+Ralph Sto. Domingo: The adoption of the Unlicense is temporary and is 
+  subject to future changes depending on our client's discretion.
