@@ -1,4 +1,4 @@
-pmim-module: Documentation Repository
+Documentation Repository
 ============================================
 <pre>
 Conducted by:
